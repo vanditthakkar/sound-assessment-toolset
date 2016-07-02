@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6abffb3-85f5-4e1b-a5d4-8efce9806da3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/102.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/104.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/116.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/117.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/118.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/119.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/121.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/122.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/124.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/126.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/127.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/132.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/134.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/138.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/142.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/146.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/147.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/148.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/149.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/151.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/153.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/154.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/155.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/156.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/158.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/159.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/161.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/162.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/163.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/165.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/167.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/168.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/169.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/171.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/172.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/173.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/174.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/175.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/176.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/177.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/178.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/181.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/182.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/183.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/184.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/185.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/186.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/189.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/193.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/195.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/196.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/197.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/198.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/199.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/201.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/202.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/203.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/204.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/205.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/206.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/207.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/208.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/209.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/211.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/213.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/214.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/215.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/216.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/217.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/218.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/219.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/222.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/223.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/224.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/225.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/226.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/227.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/228.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/229.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/231.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/232.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/233.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/234.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/235.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/236.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/237.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/238.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/239.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/241.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/243.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/244.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/247.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/248.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/249.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/251.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/252.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/253.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/254.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/255.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/257.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/258.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/259.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/261.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/262.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/263.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/264.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/265.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/266.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/267.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/268.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/269.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/271.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/272.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/273.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/274.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/299.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/301.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/97.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/98.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/99.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/batman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/images/lion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sound/299.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sound/300.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sound/301.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_m_p_d_n.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_r_g_m_p.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_g_m_n.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_g_m_n_ZDveLbs.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_g_m_n_dduAaQx.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_n.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_r.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/student_file/missing_s_r_g.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/teacher_file/missing_g.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/teacher_file/missing_n.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/teacher_file/sare.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sys" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Bold.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Light.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Medium.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/app/static/font/roboto/Roboto-Thin.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/changelist-bg.gif" afterPath="$PROJECT_DIR$/app/static/img/changelist-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/changelist-bg_rtl.gif" afterPath="$PROJECT_DIR$/app/static/img/changelist-bg_rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/default-bg-reverse.gif" afterPath="$PROJECT_DIR$/app/static/img/default-bg-reverse.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/default-bg.gif" afterPath="$PROJECT_DIR$/app/static/img/default-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/deleted-overlay.gif" afterPath="$PROJECT_DIR$/app/static/img/deleted-overlay.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/gis/move_vertex_off.png" afterPath="$PROJECT_DIR$/app/static/img/gis/move_vertex_off.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/gis/move_vertex_on.png" afterPath="$PROJECT_DIR$/app/static/img/gis/move_vertex_on.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon-no.gif" afterPath="$PROJECT_DIR$/app/static/img/icon-no.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon-unknown.gif" afterPath="$PROJECT_DIR$/app/static/img/icon-unknown.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon-yes.gif" afterPath="$PROJECT_DIR$/app/static/img/icon-yes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_addlink.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_addlink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_alert.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_alert.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_calendar.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_calendar.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_changelink.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_changelink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_clock.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_clock.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_deletelink.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_deletelink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_error.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_error.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_searchbox.png" afterPath="$PROJECT_DIR$/app/static/img/icon_searchbox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/icon_success.gif" afterPath="$PROJECT_DIR$/app/static/img/icon_success.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/inline-delete-8bit.png" afterPath="$PROJECT_DIR$/app/static/img/inline-delete-8bit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/inline-delete.png" afterPath="$PROJECT_DIR$/app/static/img/inline-delete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/inline-restore-8bit.png" afterPath="$PROJECT_DIR$/app/static/img/inline-restore-8bit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/inline-restore.png" afterPath="$PROJECT_DIR$/app/static/img/inline-restore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/inline-splitter-bg.gif" afterPath="$PROJECT_DIR$/app/static/img/inline-splitter-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/lightbox/default-skin.png" afterPath="$PROJECT_DIR$/app/static/img/lightbox/default-skin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/lightbox/preloader.gif" afterPath="$PROJECT_DIR$/app/static/img/lightbox/preloader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/nav-bg-grabber.gif" afterPath="$PROJECT_DIR$/app/static/img/nav-bg-grabber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/nav-bg-reverse.gif" afterPath="$PROJECT_DIR$/app/static/img/nav-bg-reverse.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/nav-bg-selected.gif" afterPath="$PROJECT_DIR$/app/static/img/nav-bg-selected.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/nav-bg.gif" afterPath="$PROJECT_DIR$/app/static/img/nav-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/01.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/02.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/03.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/04.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/05.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/06.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/07.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/08.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/overlays/09.png" afterPath="$PROJECT_DIR$/app/static/img/overlays/09.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/selector-icons.gif" afterPath="$PROJECT_DIR$/app/static/img/selector-icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/selector-search.gif" afterPath="$PROJECT_DIR$/app/static/img/selector-search.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/sorting-icons.gif" afterPath="$PROJECT_DIR$/app/static/img/sorting-icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/tooltag-add.png" afterPath="$PROJECT_DIR$/app/static/img/tooltag-add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/tooltag-arrowright.png" afterPath="$PROJECT_DIR$/app/static/img/tooltag-arrowright.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/changelist-bg.gif" afterPath="$PROJECT_DIR$/static/admin/img/changelist-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/changelist-bg_rtl.gif" afterPath="$PROJECT_DIR$/static/admin/img/changelist-bg_rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/default-bg-reverse.gif" afterPath="$PROJECT_DIR$/static/admin/img/default-bg-reverse.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/default-bg.gif" afterPath="$PROJECT_DIR$/static/admin/img/default-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/deleted-overlay.gif" afterPath="$PROJECT_DIR$/static/admin/img/deleted-overlay.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.png" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.png" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-no.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_addlink.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_addlink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_alert.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_alert.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_calendar.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_calendar.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_changelink.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_changelink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_clock.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_clock.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_deletelink.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_deletelink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_error.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_error.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_searchbox.png" afterPath="$PROJECT_DIR$/static/admin/img/icon_searchbox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon_success.gif" afterPath="$PROJECT_DIR$/static/admin/img/icon_success.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete-8bit.png" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete-8bit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.png" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-restore-8bit.png" afterPath="$PROJECT_DIR$/static/admin/img/inline-restore-8bit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-restore.png" afterPath="$PROJECT_DIR$/static/admin/img/inline-restore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-splitter-bg.gif" afterPath="$PROJECT_DIR$/static/admin/img/inline-splitter-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-grabber.gif" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-grabber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-reverse.gif" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-reverse.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/nav-bg-selected.gif" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg-selected.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/nav-bg.gif" afterPath="$PROJECT_DIR$/static/admin/img/nav-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.gif" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/selector-search.gif" afterPath="$PROJECT_DIR$/static/admin/img/selector-search.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.gif" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.png" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.png" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Sound_Assessment.iml" afterPath="$PROJECT_DIR$/.idea/Sound_Assessment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sound_Assessment/__init__.py" afterPath="$PROJECT_DIR$/Sound_Assessment/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sound_Assessment/settings.py" afterPath="$PROJECT_DIR$/Sound_Assessment/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sound_Assessment/urls.py" afterPath="$PROJECT_DIR$/Sound_Assessment/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sound_Assessment/wsgi.py" afterPath="$PROJECT_DIR$/Sound_Assessment/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin.py" afterPath="$PROJECT_DIR$/app/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/algos_librosa.py" afterPath="$PROJECT_DIR$/app/algos_librosa.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/forms.py" afterPath="$PROJECT_DIR$/app/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/grade.py" afterPath="$PROJECT_DIR$/app/grade.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/key_mapping.py" afterPath="$PROJECT_DIR$/app/key_mapping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/midiMap.py" afterPath="$PROJECT_DIR$/app/midiMap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/__init__.py" afterPath="$PROJECT_DIR$/app/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/process.py" afterPath="$PROJECT_DIR$/app/process.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/__init__.py" afterPath="$PROJECT_DIR$/app/processing/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/algos_librosa.py" afterPath="$PROJECT_DIR$/app/processing/algos_librosa.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/grade.py" afterPath="$PROJECT_DIR$/app/processing/grade.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/key_mapping.py" afterPath="$PROJECT_DIR$/app/processing/key_mapping.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/midiMap.py" afterPath="$PROJECT_DIR$/app/processing/midiMap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/processing/process.py" afterPath="$PROJECT_DIR$/app/processing/process.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/result_graph.py" afterPath="$PROJECT_DIR$/app/result_graph.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/base.css" afterPath="$PROJECT_DIR$/app/static/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/app/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/changelists.css" afterPath="$PROJECT_DIR$/app/static/css/changelists.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/dashboard.css" afterPath="$PROJECT_DIR$/app/static/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/forms.css" afterPath="$PROJECT_DIR$/app/static/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/ie.css" afterPath="$PROJECT_DIR$/app/static/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/login.css" afterPath="$PROJECT_DIR$/app/static/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/mdb.css" afterPath="$PROJECT_DIR$/app/static/css/mdb.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/mdb.min.css" afterPath="$PROJECT_DIR$/app/static/css/mdb.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/rtl.css" afterPath="$PROJECT_DIR$/app/static/css/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/style.css" afterPath="$PROJECT_DIR$/app/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/css/widgets.css" afterPath="$PROJECT_DIR$/app/static/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/img/lightbox/default-skin.svg" afterPath="$PROJECT_DIR$/app/static/img/lightbox/default-skin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/app/static/js/LICENSE-JQUERY.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/SelectBox.js" afterPath="$PROJECT_DIR$/app/static/js/SelectBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/app/static/js/SelectFilter2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/actions.js" afterPath="$PROJECT_DIR$/app/static/js/actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/actions.min.js" afterPath="$PROJECT_DIR$/app/static/js/actions.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/app/static/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/app/static/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/app/static/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/app/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/calendar.js" afterPath="$PROJECT_DIR$/app/static/js/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/collapse.js" afterPath="$PROJECT_DIR$/app/static/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/collapse.min.js" afterPath="$PROJECT_DIR$/app/static/js/collapse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/core.js" afterPath="$PROJECT_DIR$/app/static/js/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/inlines.js" afterPath="$PROJECT_DIR$/app/static/js/inlines.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/inlines.min.js" afterPath="$PROJECT_DIR$/app/static/js/inlines.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/jquery-2.2.3.js" afterPath="$PROJECT_DIR$/app/static/js/jquery-2.2.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/jquery-2.2.3.min.js" afterPath="$PROJECT_DIR$/app/static/js/jquery-2.2.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/jquery.init.js" afterPath="$PROJECT_DIR$/app/static/js/jquery.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/jquery.js" afterPath="$PROJECT_DIR$/app/static/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/app/static/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/mdb.js" afterPath="$PROJECT_DIR$/app/static/js/mdb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/mdb.min.js" afterPath="$PROJECT_DIR$/app/static/js/mdb.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/prepopulate.js" afterPath="$PROJECT_DIR$/app/static/js/prepopulate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/app/static/js/prepopulate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/related-widget-wrapper.js" afterPath="$PROJECT_DIR$/app/static/js/related-widget-wrapper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/tether.js" afterPath="$PROJECT_DIR$/app/static/js/tether.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/tether.min.js" afterPath="$PROJECT_DIR$/app/static/js/tether.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/timeparse.js" afterPath="$PROJECT_DIR$/app/static/js/timeparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/js/urlify.js" afterPath="$PROJECT_DIR$/app/static/js/urlify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/README.txt" afterPath="$PROJECT_DIR$/app/static/sass/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_animations.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_buttons.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_cards-basic.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_cards-basic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_carousels-basic.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_carousels-basic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_footer.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_forms-basic.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_forms-basic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_global.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_global.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_helpers.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_helpers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_hover-effects.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_hover-effects.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_navbars.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_navbars.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_roboto.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_roboto.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_typography.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/_waves.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/_waves.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_colors.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_colors.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_mixins.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_prefixer.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_prefixer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_variables-b4.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_variables-b4.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_variables.scss" afterPath="$PROJECT_DIR$/app/static/sass/mdb/free/data/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/static/style.css" afterPath="$PROJECT_DIR$/app/static/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/app/graph.html" afterPath="$PROJECT_DIR$/app/templates/app/graph.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/app/home.html" afterPath="$PROJECT_DIR$/app/templates/app/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/layout/base.html" afterPath="$PROJECT_DIR$/app/templates/layout/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests.py" afterPath="$PROJECT_DIR$/app/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/ie.css" afterPath="$PROJECT_DIR$/static/admin/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/static/admin/js/LICENSE-JQUERY.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery.min.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/related-widget-wrapper.js" afterPath="$PROJECT_DIR$/static/admin/js/related-widget-wrapper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/style.css" afterPath="$PROJECT_DIR$/static/style.css" />
+    </list>
+    <ignored path="Sound_Assessment.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Sound_Assessment$Test__media_images_10_png.coverage" NAME="Test: media.images.10.png Coverage Results" MODIFIED="1466712905399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Sound_Assessment$Test__static_admin.coverage" NAME="Test: static.admin Coverage Results" MODIFIED="1467253959374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Sound_Assessment$urls.coverage" NAME="urls Coverage Results" MODIFIED="1467253993261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sound_Assessment" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Sound_Assessment" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="algos_librosa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/algos_librosa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3450">
+              <caret line="230" column="15" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="89" column="73" selection-start-line="89" selection-start-column="73" selection-end-line="89" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sound_Assessment/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="key_mapping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/key_mapping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="midiMap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/midiMap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_graph.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/result_graph2.py" />
+        <option value="$PROJECT_DIR$/app/templates/app/graph.html" />
+        <option value="$PROJECT_DIR$/Sound_Assessment/urls.py" />
+        <option value="$PROJECT_DIR$/Sound_Assessment/settings.py" />
+        <option value="$PROJECT_DIR$/app/templates/app/lti.html" />
+        <option value="$PROJECT_DIR$/app/algos_librosa.py" />
+        <option value="$PROJECT_DIR$/app/views.py" />
+        <option value="$PROJECT_DIR$/app/templates/app/home.html" />
+        <option value="$PROJECT_DIR$/app/grade.py" />
+        <option value="$PROJECT_DIR$/app/midiMap.py" />
+        <option value="$PROJECT_DIR$/app/process.py" />
+        <option value="$PROJECT_DIR$/app/result_graph.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound_Assessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.urls">
+    <configuration default="false" name="Test: media.images.10.png" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="media.images.10.png" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="result_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/result_graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test: static.admin" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="static.admin" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sound_Assessment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sound_Assessment/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Sound_Assessment" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sound_Assessment" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sound_Assessment" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Sound_Assessment" />
+      <item index="1" class="java.lang.String" itemvalue="Django tests.Test: media.images.10.png" />
+      <item index="2" class="java.lang.String" itemvalue="Python.views" />
+      <item index="3" class="java.lang.String" itemvalue="Python.result_graph" />
+      <item index="4" class="java.lang.String" itemvalue="Django tests.Test: static.admin" />
+      <item index="5" class="java.lang.String" itemvalue="Python.urls" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.urls" />
+        <item index="1" class="java.lang.String" itemvalue="Django tests.Test: static.admin" />
+        <item index="2" class="java.lang.String" itemvalue="Python.result_graph" />
+        <item index="3" class="java.lang.String" itemvalue="Python.views" />
+        <item index="4" class="java.lang.String" itemvalue="Django tests.Test: media.images.10.png" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6abffb3-85f5-4e1b-a5d4-8efce9806da3" name="Default" comment="" />
+      <created>1466708725499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466708725499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__static_admin - 2016.06.30 at 02h 55m 25s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 02h 58m 04s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 07h 22m 31s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 07h 25m 01s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 07h 25m 09s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 07h 25m 11s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 08h 02m 25s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 08h 02m 37s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 08h 02m 38s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__static_admin - 2016.06.30 at 08h 02m 39s.xml">
+      <configuration name="Test: static.admin" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19282869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6018519" sideWeight="0.5121212" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14814815" sideWeight="0.4878788" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.052469134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6018519" sideWeight="0.5121212" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.052469134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13271604" sideWeight="0.4878788" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30358565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/graph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="88" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="2740" column="4" selection-start-line="2740" selection-start-column="4" selection-end-line="2740" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/images/74.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/75.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/79.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/batman.jpg" />
+    <entry file="file://$PROJECT_DIR$/media/images/131.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/126.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/125.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/132.png" />
+    <entry file="file://$PROJECT_DIR$/app/result_graph2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/graph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/images/70.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/310.png" />
+    <entry file="file://$PROJECT_DIR$/media/images/365.png" />
+    <entry file="file://$PROJECT_DIR$/app/templates/app/lti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="89" column="73" selection-start-line="89" selection-start-column="73" selection-end-line="89" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sound_Assessment/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/algos_librosa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="15" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/key_mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/midiMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/result_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

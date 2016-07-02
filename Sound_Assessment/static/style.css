@@ -1,0 +1,35 @@
+.marg{
+  margin: 0;
+
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-right: -50%;
+      transform: translate(-50%, -50%);
+}
+.fontHead{
+  font-family: "Times New Roman", Times, serif;
+  font-size:40px;
+  font-style: oblique;
+}
+
+.fontRes{
+  font-family: "Times New Roman", Times, serif;
+  font-size:30px;
+  font-style: oblique;
+}
+body{
+  background-color: #fbfbfb;
+
+}
+.mtop1{
+  font-family: 'Tangerine', serif;
+  font-size: 65px;
+  -webkit-box-shadow: 1px 5px 16px -6px rgba(0,0,0,0.3);
+  -moz-box-shadow: 1px 5px 16px -6px rgba(0,0,0,0.3);
+  box-shadow: 1px 5px 16px -6px rgba(0,0,0,0.3);
+
+}
+.mtop2{
+  margin-top:50px;
+}

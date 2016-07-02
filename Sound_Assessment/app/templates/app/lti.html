@@ -1,0 +1,103 @@
+{% extends "layout/base.html" %}
+{% block content %}
+
+    <div class="container-fluid">
+    <div class="row">
+            <div class="col-md-12-fluid">
+                <div class="card">
+                 <!--Card content-->
+                    <div class="card-block" >
+                        <!--Title-->
+                        <h2 class="card-title" style="text-align: center; padding: 30px">Sound Assessment Tool Piano</h2>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </div>
+
+        <div class="container" style="margin-top: 40px" >
+    <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <div class="card">
+                 <!--Card content-->
+                    <div class="card-block" style="text-align: center;" >
+                        <!--Title-->
+                        <div class="card-title" style="margin-bottom: 10px"> Teacher's Audio </div>
+                        <audio controls="controls" src="{{ teacher.file_upload.url }} "></audio>
+                        {% if flag %}
+                            <div class="card-title" style="margin-bottom: 10px; margin-top: 10px"> Your Audio </div>
+                            <audio controls="controls" src="{{ student.file_upload.url }} "></audio>
+                        {% endif %}
+                    </div>
+
+                    <div class="card-block" style="text-align: center;" >
+
+                                <form action = "{%url 'lti' %}" method="POST" enctype="multipart/form-data">
+                                {% csrf_token %}
+
+                                <label class="btn btn-default btn-file">
+                                     Choose <input type="file" id="id_file_upload" accept="audio/" name="file_upload" style="display: none;">
+                                </label>
+
+                                <input type="submit" class="btn btn-primary" value="Upload"/>
+                                 </form>
+
+                                <div style="margin-top: 20px">
+                                {% if flag %}
+                                <p>Succesfully Submitted !</p>
+                                    {% else %}
+                                    <p>Please Choose a file !</p>
+                                {% endif %}
+                                </div>
+
+                    </div>
+
+                </div>
+            </div>
+    </div>
+    </div>
+
+    <div>
+
+    </div>
+ {% if flag %}
+<div class="container-fluid">
+    <div class="row">
+            <div class="col-md-12 col-md-offset-0">
+
+                <!--Card-->
+                <div class="card">
+
+                    <!--Card image-->
+
+                    <div class="view overlay hm-white-slight" style="text-align: center">
+
+                        <img style="text-align: center" src="{{ MEDIA_URL }}images/{{ id }}.png" class="img-responsive" alt="">
+                        <a>
+                            <div class="mask"></div>
+                        </a>
+                    </div>
+
+                    <!--/.Card image-->
+
+                    <!--Card content-->
+                    <div class="card-block">
+                        <!--Title-->
+                        <h3 style="text-align: center" class="card-title" ><strong>Result</strong></h3>
+                        <div style="text-align: center">
+                            <p>Notes Missed : <strong>{{ missed }}</strong></p>
+                            <p>Notes Extra: <strong>{{ extra }}</strong></p>
+                            <p class="card-text">Score : <strong>{{ score }}</strong></p>
+                            <a class="btn btn-primary" >Back To Edx</a>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+            </div>
+        </div>
+</div>
+ {% endif %}
+{% endblock %}
